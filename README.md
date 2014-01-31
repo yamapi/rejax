@@ -1,12 +1,17 @@
-# ReJax
+ReJax
 ===============
 
 
 If you need to refresh only a portion of a page
 Element is automatically refreshed...
 
+## Features
+* Lightweight: less than 2KB.
+* Compatible with: jQuery 1.3.2+ in Firefox, Safari, Chrome, Opera, Internet Explorer 7+
 
-## To enable the plugin:
+## Usage
+
+ReJax accepts settings from an object of key/value pairs.
 
  ```javascript
  // Format:
