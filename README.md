@@ -2,8 +2,10 @@ ReJax
 ===============
 
 
-If you need to refresh only a portion of a page
-Element is automatically refreshed...
+Auto Load And Refresh element Every X Seconds With JQuery
+
+
+Automatically loading content and displaying it without refreshing the page is an important feature any websites could have. Especially for news website and blog must have this feature to display most recent news/posts. Even top social websites have these features to display latest posts/tweets. You can also implement this feature easily using jQuery. You can directly display content in your website from database and automatically change it after fixed interval of time (I recommend five seconds).
 
 ## Features
 * Lightweight: less than 2KB.
